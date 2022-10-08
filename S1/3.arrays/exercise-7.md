@@ -1,0 +1,1 @@
+// pues en este ejercicio tenemos que recorrer un array y sacar cada elemento del mismo con un bucle
